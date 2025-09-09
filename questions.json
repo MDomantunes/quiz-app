@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Qual é o maior órgão do corpo humano?",
+    "options": ["Fígado", "Coração", "Pele", "Pulmão"],
+    "correctAnswer": "Pele"
+  },
+  {
+    "question": "Qual é o osso mais longo do corpo humano?",
+    "options": ["Fêmur", "Tíbia", "Úmero", "Rádio"],
+    "correctAnswer": "Fêmur"
+  },
+  {
+    "question": "Qual é o músculo responsável pela respiração?",
+    "options": ["Diafragma", "Tríceps", "Quadríceps", "Bíceps"],
+    "correctAnswer": "Diafragma"
+  },
+  {
+    "question": "Qual é o menor osso do corpo humano?",
+    "options": ["Estribo", "Martelo", "Bigorna", "Escafoide"],
+    "correctAnswer": "Estribo"
+  },
+  {
+    "question": "Qual é o órgão responsável por filtrar o sangue e produzir urina?",
+    "options": ["Fígado", "Rins", "Pulmões", "Baço"],
+    "correctAnswer": "Rins"
+  },
+  {
+    "question": "Qual parte do cérebro é responsável pelo equilíbrio e coordenação motora?",
+    "options": ["Cerebelo", "Hipotálamo", "Córtex cerebral", "Tronco encefálico"],
+    "correctAnswer": "Cerebelo"
+  },
+  {
+    "question": "Qual é a principal função das hemácias?",
+    "options": ["Transportar oxigênio", "Combater infecções", "Coagular o sangue", "Produzir hormônios"],
+    "correctAnswer": "Transportar oxigênio"
+  },
+  {
+    "question": "Qual é o nome da estrutura que conecta músculos aos ossos?",
+    "options": ["Tendão", "Ligamento", "Cartilagem", "Fáscia"],
+    "correctAnswer": "Tendão"
+  },
+  {
+    "question": "Quantos dentes permanentes um adulto saudável geralmente possui?",
+    "options": ["28", "30", "32", "36"],
+    "correctAnswer": "32"
+  },
+  {
+    "question": "Qual é a parte do olho responsável por controlar a quantidade de luz que entra?",
+    "options": ["Pupila", "Córnea", "Cristalino", "Íris"],
+    "correctAnswer": "Íris"
+  }
+]
