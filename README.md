@@ -1,10 +1,10 @@
-🧠 Quiz sobre o Corpo Humano
+# 🧠 Quiz sobre o Corpo Humano
 
 Bem-vindo(a) ao meu projeto de Quiz do Corpo Humano, desenvolvido com Expo
 .
 O objetivo do app é testar seus conhecimentos sobre o corpo humano de forma divertida e interativa!
 
-📱 Sobre o projeto
+# 📱 Sobre o projeto
 
 Este aplicativo apresenta perguntas de múltipla escolha relacionadas ao corpo humano, como:
 
@@ -16,7 +16,7 @@ Curiosidades biológicas
 
 A ideia é ajudar estudantes e curiosos a aprender mais sobre o corpo humano enquanto jogam.
 
-🚀 Como rodar o projeto
+# 🚀 Como rodar o projeto
 
 Instale as dependências:
 
@@ -37,18 +37,22 @@ Simulador iOS
 Expo Go
  no celular
 
-📂 Estrutura do projeto
+# 📂 Estrutura do projeto
 
 O código está organizado dentro da pasta app, utilizando o sistema de rotas baseado em arquivos do Expo.
 
-🔄 Resetar o projeto (opcional)
+# 🔄 Resetar o projeto (opcional)
 
 Se quiser começar do zero:
 
 npm run reset-project
 
-📚 Recursos úteis
+# 📚 Recursos úteis
 
 Documentação do Expo
 
 Tutorial oficial do Expo
+
+# 🤝 Contribuição
+
+Sugestões de novas perguntas ou melhorias são bem-vindas!
